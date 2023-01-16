@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container {
+header {
     background: rgba(255, 144, 14, 0.1);
     height: 100%;
 
@@ -463,21 +463,24 @@ img {
         flex-direction: column;
         margin: 0;
     }
-    .box{
+
+    .box {
         width: 100%;
     }
 
-    .sponsors{
+    .sponsors {
         text-align: center;
         margin: 0;
     }
-    .s-details p{
+
+    .s-details p {
         width: 70%;
         text-align: center;
     }
-    .sponsors-brands{
+
+    .sponsors-brands {
         flex-direction: column;
-        
+
         width: 100%;
     }
 
