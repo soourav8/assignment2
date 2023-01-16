@@ -534,6 +534,8 @@ small {
     }
 
     footer{
+
+        width: 100%;
         
         text-align: center;
         
@@ -541,7 +543,9 @@ small {
     }
 
     small{
-        padding: 19px 10px;
+        
+        display: block;
+        padding: 19px 0px;
     }
 
 }
